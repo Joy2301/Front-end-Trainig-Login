@@ -88,8 +88,7 @@ p{
 /* ------La imagen de fondo de la segunda parte------*/
 
 .Fondo{
-    background-color: #ffdd90; 
-    background-image: url("Imagenes/blog_image_Felicidad.jpeg");
+    background-color: #ffdd90;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
