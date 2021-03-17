@@ -89,7 +89,7 @@ p{
 
 .Fondo{
     background-color: #ffdd90; 
-    background-image: url("/Imagenes/blog_image_Felicidad.jpeg");
+    background-image: url("Imagenes/blog_image_Felicidad.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
